@@ -1,0 +1,9 @@
+.spinner-grow{
+    /* color: white; */
+    position: fixed;
+    text-align: center;
+    top: 50%;
+    right: 50%;
+    width: 5rem;
+    height: 5rem;
+}
